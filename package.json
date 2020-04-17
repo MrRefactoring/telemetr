@@ -1,0 +1,14 @@
+{
+  "name": "telemetr",
+  "version": "1.0.0",
+  "main": "out/index.js",
+  "repository": "https://github.com/MrRefactoring/telemetr.git",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {}
+}
